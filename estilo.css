@@ -1,0 +1,19 @@
+div {
+    background-color: yellow;
+    border: 2px solid black;
+    width: 500px;
+    align-items: center;
+    
+}
+p{
+    background-color: coral;
+    width: 75%;
+    text-align: center;
+    border-bottom: 4px solid black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: auto;
+}
+span {
+    background-color: aqua;
+    padding: 0px 10px;
+}
